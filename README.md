@@ -3,8 +3,8 @@
 ## Project description:
 
 This project is to design a program in Python to prepare a presentation to the management team in a shoe shop.
-The project demonstrated the usage of Object Oriented Programming and its related methods to perform various functions.
-After developing the program, the staffs work in the shoe shop have experience significant time saving.
+The project demonstrates the usage of Object Oriented Programming and the related methods to perform various functions.
+After developing the program, the staffs work in the shoe shop have experienced significant time saving.
 
 ## Table of Contents:
 
