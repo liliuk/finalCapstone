@@ -8,7 +8,7 @@ After developing the program, the staffs work in the shoe shop have experience s
 
 ## Table of Contents:
 
-*Initialise Shoe Class  -----------------------------------------------------------  line 2-19
+*Initialise Shoe Class  -----------------------------------------------------------------------------------  line 2-19
 *Initialise cost of shoe method ---------------------------------------------------  line 20-25
 *Initialise quantity of shoe method -----------------------------------------------  line 26-31
 *Return string representation -----------------------------------------------------  line 32-43
@@ -30,7 +30,7 @@ Please also download the inventory.txt file in order for the code to run properl
 First please move down to the Main Menu section and choose the option you would like to perform by inputting the corresponding number,
 and then review the result in the terminal.
 
-## Below is the example for option 4:
+Below is the example for option 4:
 
 ![image](https://user-images.githubusercontent.com/118776194/212059486-bcb8bbeb-463c-41d4-aa0f-a2a9d7b3d309.png)
 
