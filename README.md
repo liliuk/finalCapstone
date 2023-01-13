@@ -8,10 +8,7 @@ After developing the program, the staffs work in the shoe shop have experienced 
 
 ## Table of Contents:
 
-
-## Table of Contents:
-
-1. Initialise shoe class  ---------------------------------------------------------------------------------line 2-19
+1. Initialise shoe class  -------------------------------------------------------------------------------------line 2-19
 2. Initialise cost of shoe method -------------------------------------------------------------------------line 20-25
 3. Initialise quantity of shoe method -------------------------------------------------------------------- line 26-31
 4. Return string representation ---------------------------------------------------------------------------line 32-43
